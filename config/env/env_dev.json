@@ -1,0 +1,5 @@
+{
+  "MONGOLAB_URI": "mongodb://localhost/FakeBook",
+  "FACEBOOK_SECRET": "f0bbfb2dce5e0b1a287edfd350dfd41f",
+  "TOKEN_SECRET": "SPebah@wrunutRu@6!ecR_rEb_te3a2rc$8ac&Abr5-huprApheyUvaGaReVupab"
+}
